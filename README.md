@@ -1,6 +1,5 @@
-# Getting and Cleaning Data
 
-## Steps to work on this course project
+#How It Works
 
 1. Download the data source and put into a folder on your local drive. You'll have a ```UCI HAR Dataset``` folder.
 2. Put ```run_analysis.R``` in the parent folder of ```UCI HAR Dataset```, then set it as your working directory using ```setwd()``` function in RStudio.
